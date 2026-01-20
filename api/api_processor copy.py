@@ -136,7 +136,6 @@ class PrescriptionAnalyzer:
             return {"success": False, "error": str(e)}
 
     def _extract_pdf_text(self, pdf_path):
-        # (Keep your existing extraction logic here, it works fine)
         try:
             loader = PyPDFLoader(pdf_path)
             documents = loader.load()
