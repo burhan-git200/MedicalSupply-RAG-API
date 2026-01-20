@@ -1,0 +1,10 @@
+Prescription/*
+!Prescription/New Microsoft Word Document.pdf
+
+Policies/*
+
+api\__pycache__
+
+api\vectorstores
+
+.txt

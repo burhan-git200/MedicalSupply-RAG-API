@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+langchain-ollama
+faiss-cpu
+pydantic
+python-multipart
+icd10-cm
+pdf2image
+pytesseract
+Pillow
+pypdf
+rank_bm25
+pymupdf
